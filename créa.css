@@ -1,0 +1,109 @@
+.page-header{
+    min-height: 150px;
+}
+
+.navbar{
+    width:100%;
+    margin-bottom: 300px;
+}
+
+.texte1{
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 50px;
+    float: left;
+    font-size: 50px;
+}
+
+.bouton{
+    margin-right: 0px;
+    margin-top: 5px;
+    padding-right: 20px;
+    height: 120px;
+}
+
+.carousel-inner{
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    max-height: 300px;
+}
+.carousel {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 100px;
+    margin: 0;
+    padding: 0;
+}
+.acceuil-titre{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.titre1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.titre2{
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+header{
+   padding-top: 1px;
+}
+
+.no-padding-h{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    padding-top: 450px;
+}
+
+.navbar{
+    background-color: rgba(0,0,0, 0.5);
+    height: 100px;
+    width:100%;
+  
+}
+
+p{
+    font-size: 28px;
+    text-align: left;
+    margin-left: 100px; 
+    color: #2cd5ff;
+    margin-top: 50px;
+}
+
+.sketchfab{
+    width: 500px;
+    height: 500px;
+}
+h1{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+a{
+   margin-left: 30px;
+   margin-top: 30px;
+}
+
+* {
+    -webkit-box-sizing: content-box;
+}
+
+img{
+    margin-top: 30px;
+}

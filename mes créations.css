@@ -1,0 +1,21 @@
+.logo{
+
+        width: 100px;
+        height: 100px;
+        float: right;
+}
+
+.page-header{
+    min-height: 150px;
+    
+}
+
+.logo{
+   float: right;
+   margin-bottom:20px;
+}
+
+h1{
+    text-align: left;
+    float: left;
+}
